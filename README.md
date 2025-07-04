@@ -1,5 +1,10 @@
 # 📊 Amazon Sales Analysis | Power BI Dashboard Project
 
+
+[![LinkedIn - Vamshi Krishna Reddy Pasula](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/vam5h1/)
+[![Credly Badges](https://img.shields.io/badge/Credly-Certifications-orange?logo=credly&style=flat-square)](https://www.credly.com/users/vamshi-krishna-reddy-pasula/badges#credly)
+
+
 This project presents a dynamic and interactive Power BI dashboard that analyzes **Amazon product sales performance** using key performance indicators like YTD Sales, QTD Sales, Products Sold, and Review Volume. The dashboard helps visualize business trends and product-level insights across different months and weeks.
 
 ![Amazon Sales Dashboard](Amazon%20Sales%20Dashboard%20Screenshot.png)
@@ -56,7 +61,5 @@ This project presents a dynamic and interactive Power BI dashboard that analyzes
 
 **Vamshi Krishna Reddy Pasula**  
 Aspiring Data Analyst | Power BI Enthusiast | Open to Opportunities  
-[LinkedIn](https://www.linkedin.com/in/vam5h1/)
-
 
 ---
