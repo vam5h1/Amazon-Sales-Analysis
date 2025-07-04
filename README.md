@@ -56,6 +56,7 @@ This project presents a dynamic and interactive Power BI dashboard that analyzes
 
 **Vamshi Krishna Reddy Pasula**  
 Aspiring Data Analyst | Power BI Enthusiast | Open to Opportunities  
-[LinkedIn](https://www.linkedin.com/in/your-profile-link)
+[LinkedIn](https://www.linkedin.com/in/vam5h1/)
+
 
 ---
