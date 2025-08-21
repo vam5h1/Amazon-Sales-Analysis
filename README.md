@@ -7,8 +7,7 @@
 
 ## 📖 Project Overview  
 
-This project presents a **Power BI dashboard** that analyzes **Amazon product sales performance** using interactive visuals and key business KPIs.  
-The report helps track revenue trends, product performance, and customer engagement through reviews.  
+An interactive Power BI dashboard delivering insights into Amazon sales trends, product performance, and customer engagement.
 
 ![Amazon Sales Dashboard](Amazon%20Sales%20Dashboard%20Screenshot.png)  
 
