@@ -1,7 +1,7 @@
-# 📊 Amazon Sales Insights | Power BI Dashboard  
+# 📊 Amazon Sales Analysis | Power BI Dashboard  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/vam5h1/)  
-[![Credly](https://img.shields.io/badge/Credly-Certifications-orange?logo=credly)](https://www.credly.com/users/vamshi-krishna-reddy-pasula/badges#credly)  
+ 
 
 ---
 
