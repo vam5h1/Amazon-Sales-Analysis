@@ -1,8 +1,5 @@
 # 📊 Amazon Sales Analysis | Power BI Dashboard  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/vam5h1/)  
  
-
 ---
 
 ## 📖 Project Overview  
