@@ -1,65 +1,123 @@
-# 📊 Amazon Sales Analysis | Power BI Dashboard Project
+# 📊 Amazon Sales Insights | Power BI Dashboard  
 
-
-[![LinkedIn - Vamshi Krishna Reddy Pasula](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/vam5h1/)
-[![Credly Badges](https://img.shields.io/badge/Credly-Certifications-orange?logo=credly&style=flat-square)](https://www.credly.com/users/vamshi-krishna-reddy-pasula/badges#credly)
-
-
-This project presents a dynamic and interactive Power BI dashboard that analyzes **Amazon product sales performance** using key performance indicators like YTD Sales, QTD Sales, Products Sold, and Review Volume. The dashboard helps visualize business trends and product-level insights across different months and weeks.
-
-![Amazon Sales Dashboard](Amazon%20Sales%20Dashboard%20Screenshot.png)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/vam5h1/)  
+[![Credly](https://img.shields.io/badge/Credly-Certifications-orange?logo=credly)](https://www.credly.com/users/vamshi-krishna-reddy-pasula/badges#credly)  
 
 ---
 
-## 📝 Problem Statement
+## 📖 Project Overview  
 
-### KPI Requirements:
-- 💰 **YTD Sales** – Monitor total year-to-date sales to track overall revenue performance.
-- 📉 **QTD Sales** – Track quarterly trends and fluctuations.
-- 📦 **YTD Products Sold** – Analyze product movement across the year.
-- 🗣️ **YTD Reviews** – Assess customer feedback and satisfaction using review volume.
+This project presents a **Power BI dashboard** that analyzes **Amazon product sales performance** using interactive visuals and key business KPIs.  
+The report helps track revenue trends, product performance, and customer engagement through reviews.  
 
-### Chart Requirements:
-- 📅 **Sales by Month (Line Chart)**
-- 📊 **Sales by Week (Column Chart)**
-- 🥇 **Top 5 Products by YTD Sales (Bar Chart)**
-- ⭐ **Top 5 Products by YTD Reviews (Bar Chart)**
+![Amazon Sales Dashboard](Amazon%20Sales%20Dashboard%20Screenshot.png)  
 
 ---
 
-## 📁 Files Included
+## 🎯 Business Objectives  
 
-| File Name                          | Description                                      |
-|-----------------------------------|--------------------------------------------------|
-| `Sales Analysis - Amazon Products.pbix` | Power BI dashboard file                         |
-| `Amazon_Combined_Data.xlsx`       | Cleaned dataset used for Power BI modeling       |
-| `Amazon Sales Dashboard Screenshot.png` | Screenshot preview of the final dashboard        |
-
----
-
-## 💻 Software Used
-
-- **Microsoft Excel** – Version 2021  
-- **Power BI Desktop** – June 2023 Version (compatible with newer)
+The dashboard provides answers to the following:  
+- What are the **Year-to-Date (YTD) and Quarter-to-Date (QTD) Sales**?  
+- How many **products were sold YTD**?  
+- What is the **customer feedback trend (YTD reviews)**?  
+- Which are the **Top 5 products** based on sales and reviews?  
+- How do sales vary **month-wise and week-wise**?  
 
 ---
 
-## 🔧 Functionalities Demonstrated
+## 📊 Dashboard Features  
 
-- ✅ Connecting and Cleaning Excel Data
-- ✅ Data Modeling (Relationships & Schema)
-- ✅ Power Query Editor
-- ✅ DAX Calculations: YTD, QTD, Filter, Date, Text
-- ✅ Time Intelligence Functions
-- ✅ Custom Sorting & Conditional Formatting
-- ✅ Interactive Visualizations
-- ✅ Report Navigation & Filtering
+### 🔑 KPI Cards  
+- 💰 **YTD Sales** – Overall revenue performance  
+- 📉 **QTD Sales** – Quarterly trend comparison  
+- 📦 **YTD Products Sold** – Product movement across the year  
+- ⭐ **YTD Reviews** – Customer engagement & satisfaction  
+
+### 📈 Visuals Included  
+- Line Chart – Sales by Month  
+- Column Chart – Sales by Week  
+- Bar Chart – Top 5 Products by YTD Sales  
+- Bar Chart – Top 5 Products by YTD Reviews  
 
 ---
 
-## 🧑‍💻 Author
+## 📂 Files in Repository  
 
-**Vamshi Krishna Reddy Pasula**  
-Aspiring Data Analyst | Power BI Enthusiast | Open to Opportunities  
+| File Name                               | Description                                      |
+|-----------------------------------------|--------------------------------------------------|
+| `Sales Analysis - Amazon Products.pbix` | Power BI dashboard project file                  |
+| `Amazon_Combined_Data.xlsx`             | Cleaned dataset used for data modeling           |
+| `Amazon Sales Dashboard Screenshot.png` | Dashboard preview screenshot                     |  
+
+---
+
+## 🛠 Tools & Technologies  
+
+- **Microsoft Excel** – Data Cleaning & Preparation  
+- **Power BI Desktop** – Data Modeling, DAX, Dashboarding  
+
+---
+
+## 🔧 Functionalities Demonstrated  
+
+- ✅ Data Import & Transformation (Power Query)  
+- ✅ Data Modeling & Relationships  
+- ✅ DAX Calculations (YTD, QTD, Time Intelligence)  
+- ✅ Custom Sorting & Conditional Formatting  
+- ✅ KPI Cards & Interactive Dashboards  
+- ✅ Trend Analysis (Monthly & Weekly)  
+- ✅ Top-N Analysis (Sales & Reviews)  
+
+---
+
+## 📌 Why This Project?  
+
+E-commerce platforms like **Amazon** generate huge amounts of sales and customer data every day.  
+Without proper analysis, it’s challenging for businesses to:  
+- Identify their **best-performing products**  
+- Track **sales trends over time**  
+- Measure **customer satisfaction and feedback**  
+- Make **data-driven decisions** for growth  
+
+This project demonstrates how an **interactive Power BI dashboard** can turn raw sales data into **meaningful insights**.  
+
+---
+
+## 👥 Who Benefits from This Dashboard?  
+
+- **Business Managers & Executives** – Gain a clear view of revenue trends, quarterly growth, and top-performing products.  
+- **Sales Teams** – Track product movement and spot opportunities to push sales.  
+- **Marketing Teams** – Understand customer engagement through review volume and identify products worth promoting.  
+- **Data Analysts** – Learn practical applications of Power BI using real-world business KPIs.  
+
+---
+
+## 🚀 Impact  
+
+By using this dashboard, decision-makers can:  
+- Monitor **KPIs at a glance**  
+- Detect **seasonal trends** and adjust strategies  
+- Focus on **top-selling & top-reviewed products**  
+- Improve overall **business performance and customer satisfaction**  
+
+This project highlights the **power of data visualization** in solving real business problems and making analytics accessible to everyone.  
+
+---
+
+## 👨‍💻 About Me  
+
+I am **Vamshi Krishna Reddy Pasula**, an aspiring **Data Analyst** with a strong foundation in:  
+- **Excel, SQL, and Power BI** for analytics and visualization  
+- **Python** for data analysis and automation  
+- **Data cleaning, transformation, reporting and dashboarding**  
+- **Business-focused storytelling with data**  
+
+I hold an **M.S. in Computer Science from NJIT, USA** and have prior experience as an **Assistant System Engineer Trainee at TCS**.  
+Along with hands-on experience, I have earned industry-recognized certifications including the **IBM Data Analyst Professional Certificate** and the **Microsoft Power BI Data Analyst Professional Certificate**, showcasing both my technical expertise and business intelligence capabilities.  
+
+My long-term interest lies in **AI/ML applications in analytics**, where I aim to bridge data engineering, statistical modeling, and predictive insights to drive innovation.  
+
+🔍 Currently seeking **Data Analyst opportunities in 2025**, where I can apply my skills in **data analysis, business intelligence, data modeling, and performance measurement** to help organizations unlock actionable insights, optimize processes, and enable data-driven decision-making.  
+  
 
 ---
