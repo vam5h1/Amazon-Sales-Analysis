@@ -1,12 +1,12 @@
 # 📊 Amazon Sales Analysis | Power BI Dashboard  
- 
+
 ---
 
 ## 📖 Project Overview  
 
 An interactive Power BI dashboard delivering insights into Amazon sales trends, product performance, and customer engagement.
 
-![Amazon Sales Dashboard](Amazon%20Sales%20Dashboard%20Screenshot.png)  
+![Amazon Sales Dashboard](./Amazon%20Sales%20Dashboard%20Screenshot.png)  
 
 ---
 
@@ -41,9 +41,9 @@ The dashboard provides answers to the following:
 
 | File Name                               | Description                                      |
 |-----------------------------------------|--------------------------------------------------|
-| `Sales Analysis - Amazon Products.pbix` | Power BI dashboard project file                  |
-| `Amazon_Combined_Data.xlsx`             | Cleaned dataset used for data modeling           |
-| `Amazon Sales Dashboard Screenshot.png` | Dashboard preview screenshot                     |  
+| [Sales Analysis - Amazon Products.pbix](./Sales%20Analysis%20-%20Amazon%20Products.pbix) | Power BI dashboard project file |
+| [Amazon_Combined_Data.xlsx](./Amazon_Combined_Data.xlsx)             | Cleaned dataset used for data modeling           |
+| [Amazon Sales Dashboard Screenshot.png](./Amazon%20Sales%20Dashboard%20Screenshot.png) | Dashboard preview screenshot                     |
 
 ---
 
@@ -103,6 +103,5 @@ This project highlights the **power of data visualization** in solving real busi
 ## 👨‍💻 Connect With Me:  
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/vam5h1/)  - Let’s connect and explore opportunities in data analytics and business intelligence.
-
 
 🔍 Currently seeking **Data Analyst opportunities in 2025**, where I can apply my skills in **data analysis, business intelligence, data modeling, and performance measurement** to help organizations unlock actionable insights, optimize processes, and enable data-driven decision-making.  
